@@ -1,0 +1,71 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.form {
+    border: none;
+    width: 400px;
+    height: 500px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://w0.peakpx.com/wallpaper/452/732/HD-wallpaper-transparent-leaves-autumn-leaves-transparent-thumbnail.jpg");
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+
+}
+
+form {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.messages {
+    display: flex;
+    margin-left: 70px;
+    margin-top: -100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputs {
+    margin-top: -150px;
+    grid-gap: 10px;
+
+}
+
+.label {
+    font-size: larger;
+}
+
+.input {
+    column-gap: 5px;
+    width: 200px;
+    height: 22px;
+    background: transparent;
+    border: 0;
+    outline: 0;
+    transition: border-color 0.2s;
+}
+
+
+.btn {
+    width: 70px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 65px;
+}
