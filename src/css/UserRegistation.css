@@ -1,0 +1,15 @@
+h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
+.row{
+    background-color: #dadfe2;
+    border-radius: 30px;
+    border: none;
+    opacity: 1.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
